@@ -4,7 +4,7 @@ https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-conditional-branc
 
 ```yml
 {
-    "Version": "2020-07-26",
+   "Version": "2012-10-17"
     "Statement": [
         {
             "Effect": "Deny",
