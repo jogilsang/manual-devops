@@ -26,7 +26,7 @@ def lambda_handler(event, context):
 
 ```
 
-```nodejs
+```javascript
 var aws = require('aws-sdk');
 var codecommit = new aws.CodeCommit({ apiVersion: '2015-04-13' });
 
